@@ -38,5 +38,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 * [Kevin Darrah](https://www.youtube.com/channel/UC42d7zFnWU0dYVk_M0JED6w) - For the awesome youtube video clearly explaining how 
-the 74HC165 shift register stores and outputs data. [Video Linked Here](https://www.youtube.com/watch?v=hR6qOhUeKMc)
+the 74HC165 shift register works. [Video Linked Here](https://www.youtube.com/watch?v=hR6qOhUeKMc)
 
